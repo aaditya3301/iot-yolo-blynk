@@ -1,5 +1,5 @@
 
-# iot-yolo-blynk — ESP8266 + YOLOv3 person detection with Blynk logging & email alerts
+# ESP8266 + YOLOv3 person detection with Blynk logging & email alerts
 
 This repository (iot-yolo-blynk) contains two related projects used in a compact IoT object/person detection system:
 
