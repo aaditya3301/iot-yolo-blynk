@@ -1,0 +1,41 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+
+# Packages
+*.egg
+*.egg-info/
+dist/
+build/
+
+# Virtual environments
+env/
+venv/
+.venv/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Mac / Windows metadata
+.DS_Store
+Thumbs.db
+
+# IDE files
+.idea/
+.vscode/
+
+# Python env files
+.env
+
+# Model weights (if you prefer to keep them out of repo, adjust as needed)
+*.weights
+
+# Blink secrets header
+Blink/secrets.h
+
+# Environment files
+.env
+
+# Images/logs
+*.png
+*.jpg
